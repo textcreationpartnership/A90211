@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo letters sent by Mr. Richard Osburn (late attendant on his Majesty in Carisbrook Castle), touching a design to poyson or make away his Majesty. Which letter were read in the House of Peers and communicated to the House of Commons, June 20. 1648. With an answer to the said letters, and a narrative of the whole designe.</title>
+            <author>Osborne, Richard, fl. 1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90211</idno>
+            <idno type="STC">Wing O530</idno>
+            <idno type="STC">Thomason E449_14</idno>
+            <idno type="EEBO-CITATION">99864452</idno>
+            <idno type="PROQUEST">99864452</idno>
+            <idno type="VID">161857</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161857)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo letters sent by Mr. Richard Osburn (late attendant on his Majesty in Carisbrook Castle), touching a design to poyson or make away his Majesty. Which letter were read in the House of Peers and communicated to the House of Commons, June 20. 1648. With an answer to the said letters, and a narrative of the whole designe.</title>
+                  <author>Osborne, Richard, fl. 1648.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for A.H. neere Pye-corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:161857:1" rendition="simple:additions"/> TVVO LETTERS SENT By Mr. <hi>Richard Osburn</hi> (late Attendant on his <hi>Majeſty</hi> in <hi>Carisbrook Caſtle,</hi> touching <hi>a Deſign to poyſon or make away his</hi> Majeſty.</p>
+            <p>Which Letters were read in the Houſe of <hi>Peers</hi> and communicated to the Houſe of Commons, June 20. 1648.</p>
+            <p>
+               <hi>With an</hi> ANSWER <hi>to the ſaid Letters, and a Narrative</hi> of the whole DESIGNE.</p>
+            <figure>
+               <figDesc>a king sits enthroned, crowned and sceptre in hand, surrounded by courtiers. Two children look on.</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for A. H. neere Pye-corner, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div n="Richard Osburne to Philip Wharton, 4th Baron Wharton" type="letter">
+            <pb facs="tcp:161857:2"/>
+            <pb n="1" facs="tcp:161857:2"/>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THough I cannot but imagin I ſtand ſo highly condem<g ref="char:EOLhyphen"/>ned in your Lordſhips and many perſons thoughts, that any thing of vindication from me muſt come with all the diſadvantage and prejudice that may be; yet (my Lord) being conſcious of my owne integrity, and confident that I ſhall bee judged by your Lordſhip by no other Rules but thoſe of juſtice and reaſon, I cannot doubt but when I have diſcovered the grounds and reaſons of my Actions, that it will appeare to your Lordſhip, that what I have done hath been agreeable to the ſeveral duties I ſtand ingaged in, as I am ſuppoſed to have acted contrary before I am heard.</p>
+            <p>Not to detaine your Lordſhip in circumſtances, I ſhall make this Proteſtation, that as no other thing but the dan<g ref="char:EOLhyphen"/>ger of the Kings life, could in reaſon excuſe ſuch attempt: So I doe proteſt that no inferiour conſiderations did or could have moved to ſuch an action: But my Lord having had ſuch particular and well grounded information, that ſo horrid a deſign was intended and moved from thoſe that could when they pleaſed have had the power to put it in execution; I hope I ſhal not be cenſured for having poſt poſ<g ref="char:EOLhyphen"/>ed all other conſiderations to that Loyalty which cannot be queſtioned but I owe to the King.</p>
+            <p>But not to leave your Lordſhip unſatisfied with the gene<g ref="char:EOLhyphen"/>rall account, the intelligence I ſpeak of, concerning this de<g ref="char:EOLhyphen"/>ſigne,
+<pb n="2" facs="tcp:161857:3"/> I received from Captain <hi>Rolfe,</hi> a perſon very intimate with the Governour, privy to all Conncells, and one that is very high in the eſteem of the Army; he my Lord infor<g ref="char:EOLhyphen"/>med me, that to his knowledge the Governour had received ſeverrll Letters from the Army, intimating they deſired the King might by any meanes be removed out of the way, ei<g ref="char:EOLhyphen"/>ther by poyſon or otherwiſe, And that another time the ſame perſon perſwaded me to joyne with him in a deſigne to remove the King out of that Caſtle to a place of more ſe<g ref="char:EOLhyphen"/>crefie, proffering to take an Oath with me, and to doe it without the Governours privity, who he ſaid would not conſent for loſing the allowance of the Houſe, his pretence to this attempt was, that the King was in too publique a place, from whence he might be reſcued, but if he might be conveyed into ſome place of ſecreſy, he ſaid we might diſ<g ref="char:EOLhyphen"/>poſe of his perſon upon all occaſions as wee thought fit; and this he was confident we could effect without the Go<g ref="char:EOLhyphen"/>vernours privity. My Lord conſidering all theſe pregnant circumſtances, I think it will appear that there were, if there are no ſuch intentions concerning his Majeſties perſon, as may well juſtifie my indeavours that have been made for his remove from ſo much danger: and for my owne part, my Lord, I muſt be ſo plain as to declare concerning my owne actings in relation to this buſineſſe, that had I done this (having ſuch grounds) I muſt beleeve I had then verified all thoſe aſperſions of diſloyalty and breach of Truſt, which I am contented to ſuffer from thoſe whoſe intereſt is per<g ref="char:EOLhyphen"/>chance oppoſed to my indeavors to prevent ſuch damnable deſignes.</p>
+            <p>My Lord, I have ſpoken nothing here but what I ſhall be ready to teſtifie upon Oath
+<note n="*" place="bottom">In his Letter to the Houſe of Commons, he deſires time for 40 days.</note> when ever I ſhall be called to it, with promiſe of Freedome and ſecurity, till then I muſt be content to ſupport all cenſures and ſatisfie my ſelfe with the vindication I receive from my owne conſcience.</p>
+            <closer>
+               <signed>I am your Lordſhips humble Servant, Rich. Osburne.</signed>
+            </closer>
+         </div>
+         <div n="Richard Osburne to Edward Montagu, 2nd earl of Manchester, Speaker of the House of Lord"
+              type="letter">
+            <pb n="3" facs="tcp:161857:3"/>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>I Did by a Letter of the firſt of <hi>June</hi> acquaint my Lord <hi>Wharton</hi> with what I ſend here incloſed, expecting it would before this have been communicated to both Houſes: what ſhould be the reaſon of concealing a buſineſſe of this na<g ref="char:EOLhyphen"/>ture I know not, except it bee to give thoſe time that are concerned in it, better to thinke of ſome ſtratagem to evade this diſcovery,</p>
+            <p>I humbly deſire your Lordſhip upon ſight of this relati<g ref="char:EOLhyphen"/>on, to communicate it to the Houſe of Peeres; which I ſhall be ready to atteſt upon Oath in every particular, when e<g ref="char:EOLhyphen"/>ver your Lordſhip ſhall pleaſe to allow me that freedome and ſecurity which ought to be afforded to any Gentleman and Chriſtian, in witneſſing a truth.</p>
+            <closer>
+               <salute>My Lord</salute>
+               <signed>I am, Your Lordſhips moſt humble Servant, Rich. Osburne.</signed>
+               <dateline>
+                  <date>June 16, 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>For the Right Honourable the Lord <hi>Mancheſter</hi> Speaker of &amp;c.</trailer>
+         </div>
+         <div n="to Richard Osburne" type="answer">
+            <head>An Anſwer to <hi>Mr. Richard Osburns</hi> Letter.</head>
+            <p>HEre is two things which Mr. <hi>Osburne</hi> aimes at in this Letter, (as is very clear and manifeſt) con<g ref="char:EOLhyphen"/>cerning himſelf, rather then any intention of good to the King.</p>
+            <p n="1">1 <hi>His own vindication, concerning that foul perfidious fact of be<g ref="char:EOLhyphen"/>traying the truſt repoſed in him by the Parliament, the Lord Generall and the Governour, in joyning with their enemies (ſecretly) to carry away his Majeſty, to the great danger of his perſon, God knows whither.</hi>
+            </p>
+            <p n="2">2. <hi>To gain freedome and ſecurity (to ſerve him as a protection, who is now fled from the face of Juſtice.)</hi>
+            </p>
+            <p>Should there be ſuch a defigne in any, as to murther or poyſon the King, it were Treaſon in the higheſt de<g ref="char:EOLhyphen"/>gree, even to (know it, and) conceale it.</p>
+            <p>
+               <pb n="4" facs="tcp:161857:4"/> But this information of Mr. <hi>Osburnes,</hi> alledged to daub up thoſe breaches which he hath made in his re<g ref="char:EOLhyphen"/>putation, by perfideouſneſſe to the Parliament, is ſo improbable; that inſtead of clearing him, it makes him appear full of levity (if not treachery) both to the King and Parliament.</p>
+            <p>The Intelligence of this deſigne (againſt the King) he ſaith he received from Captain <hi>Rolfs:</hi> And it ſeems he had not a ſudden, but ſeverall informations of if, (as himſelf ſaith) whereas, according to the Laws of the Kingdom, <hi>he ought to have, the firſt time, made it known and for not ſo doing,</hi> if that be true which he ſaith,
+<hi>he is guilty of Treaſon, for concealing it ſo long.</hi>
+            </p>
+            <p>And in all his Charge he perſonates none in Capt.
+<hi>Rolfs</hi> intelligence, but himſelf, and what he ſayes of himſelf, gives juſt grounds of ſuſpition, that his de<g ref="char:EOLhyphen"/>ſigne to have carryed away the King, was very dan<g ref="char:EOLhyphen"/>gerous to his Majeſties perſon, and the peace of the Kingdome.</p>
+            <p>
+               <hi>He confeſſeth himſelf to be guilty of a confederaſie, and to have had ſeverall Treaties to remove his Majeſty, he de<g ref="char:EOLhyphen"/>monſtrateth theſe ſeverall deſignes againſt the King.</hi>
+            </p>
+            <p n="1">1. That the King might be removed out of the Ca<g ref="char:EOLhyphen"/>ſtle where he is, to a place of more ſtrength. <hi>[That</hi> Mr. Osburn <hi>went on in this deſigne, it is clear, and by himſelf confeſt; but neither the</hi> Army, <hi>the</hi> Governour, <hi>nor</hi> Mr. Rolfs <hi>privy to it, but active to prevent it.]</hi>
+            </p>
+            <p n="2">2 That an Oath might be taken, of ſecreſie, to each other <hi>[He ſaith that</hi> Captain Rolf <hi>proffered to take it; but it ſeems he did not, and was therefore, not thought fit to be further truſted in this deſigne,]</hi> But the Souldiers which they drew in, diſcovered the Plot, for all the <pb n="5" facs="tcp:161857:4"/> Oath, which they could not bear, and ſo the Deſigne was prevented by the care of the Governour.</p>
+            <p n="3">3. That by any means the King might be removed out of the way, either by poyſon, or other wayes. <hi>[Had this been true,</hi> Osburn
+<hi>is a Traytor in high degree, for con<g ref="char:EOLhyphen"/>cealing it, though he had had no hand at all in it, more then to know of the deſigne.</hi>
+            </p>
+            <p>
+               <hi>But if ſuch a deſigne was (by all reaſon)</hi> Osburn
+<hi>was himſelfe, the chiefeſt Actor for accompliſhing of this cru<g ref="char:EOLhyphen"/>ell and horrid murthering of the King, prevented by the care of Collonell</hi> Hammond. As may appear, by theſe circumſtances, from his own confeſſion.</p>
+            <p n="1">1 Though he knew that Collonell <hi>Hammond,</hi> the Governour, would not conſent to this horrid deſign, yet (during the time of all theſe Treaties; the ma<g ref="char:EOLhyphen"/>naging of the deſign, the bringing of
+<hi>Mercury</hi> water, and eating the Iron barre of the Window. The pro<g ref="char:EOLhyphen"/>viding of boats and horſes) <hi>Osburn</hi> would not let it be diſcovered, either to the Governour, or to the Parlia<g ref="char:EOLhyphen"/>ment, but all kept ſecret till now, that he is fled from the preſence of Juſtice.</p>
+            <p n="2">2 <hi>Osburne</hi> (without the privity of the
+<hi>Army,</hi> the <hi>Governour,</hi> or Captain <hi>Rolph,</hi> with other confederates did thus far act what he chargeth Captain <hi>Rolph</hi> with, in a treaty with him, that the King had like to have been conveyed into ſome place of ſecrefie: And what was the intent herein:</p>
+            <p>Why probably it was to have reſcued His Maje<g ref="char:EOLhyphen"/>ſty from the power of the Parliament, and to have done with him what the Cavaliers had pleaſed.</p>
+            <p>The Deſigne by <hi>Osburns</hi> owne words was intend<g ref="char:EOLhyphen"/>ed thus, to the end, <hi>They might diſpoſe of His Majeſties
+<pb n="6" facs="tcp:161857:5"/> perſon, upon all occaſions as they thought fit.</hi>
+            </p>
+            <p>Now let any rationall man (that reads this Letter of Mr.
+<hi>Osburns)</hi> deal clearly with his own heart; and he cannot but confeſſe, that the deſigne to have carry<g ref="char:EOLhyphen"/>ed away the King from the Iſle of <hi>Wight</hi> by <hi>Osburn,</hi> and his confederates, was dangerous not onely to the Parliament and Kingdome, but to the hazzard of his Majeſties perſon, And by the wonderfull providence of God prevented. And that his Majeſties perſon, as well as the Kingdome, is more ſecure by the protecti<g ref="char:EOLhyphen"/>on of the Parliament then by the Cavaliers. The Parliament will heare either Mr. <hi>Osburne</hi> or any other that will come and bring in any particular Charge a<g ref="char:EOLhyphen"/>gainſt any perſons whatſoever, guilty of any ſuch De<g ref="char:EOLhyphen"/>ſigne againſt the King.</p>
+            <closer>
+               <dateline>Weſtminiſter
+<date>the 21th of June 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
